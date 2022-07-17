@@ -5,12 +5,13 @@
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
-		"vscode": "^1.69.0"
+		"vscode": "^1.54.2"
 	},
 	"repository": "https://github.com/tetracalibers/PastelFairy.git",
 	"categories": [
 		"Themes"
 	],
+	"icon": "https://github.com/tetracalibers/PastelFairy/raw/publish/img/match.png",
 	"contributes": {
 		"themes": [
 			{
