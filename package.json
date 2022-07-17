@@ -11,7 +11,7 @@
 	"categories": [
 		"Themes"
 	],
-	"icon": "https://github.com/tetracalibers/PastelFairy/raw/publish/img/match.png",
+	"icon": "./img/match.png",
 	"contributes": {
 		"themes": [
 			{
