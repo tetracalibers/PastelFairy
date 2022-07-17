@@ -4,21 +4,21 @@ This is Color Theme for Visual Studio Code
 
 ## Fragile, lovely colors
 
-![Fragile, lovely colors](img/code.png)
+![Fragile, lovely colors](https://github.com/tetracalibers/PastelFairy/raw/for-initial-commit/img/code.png)
 
-![Beautiful borders of the split editor](img/split.png)
+![Beautiful borders of the split editor](https://github.com/tetracalibers/PastelFairy/raw/for-initial-commit/img/split.png)
 
 ## Easy to find focus keywords and matching braces
 
-![Easy to find focus keywords and matching braces](img/match.png)
+![Easy to find focus keywords and matching braces](https://github.com/tetracalibers/PastelFairy/raw/for-initial-commit/img/match.png)
 
 ## Widget with drop shadow
 
-![Widget with drop shadow](img/widget_re.png)
+![Widget with drop shadow](https://github.com/tetracalibers/PastelFairy/raw/for-initial-commit/img/widget_re.png)
 
 ## Unobtrusive terminal keeps you focused on editing code
 
-![Unobtrusive terminal keeps you focused on editing code](img/terminal.png)
+![Unobtrusive terminal keeps you focused on editing code](https://github.com/tetracalibers/PastelFairy/raw/for-initial-commit/img/terminal.png)
 
 ---
 
