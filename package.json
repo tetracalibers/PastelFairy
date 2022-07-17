@@ -1,6 +1,7 @@
 {
 	"name": "pastelfairy",
 	"displayName": "pastelfairy",
+	"publisher": "tomixy",
 	"description": "",
 	"version": "0.0.1",
 	"engines": {
