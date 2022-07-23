@@ -301,6 +301,13 @@
 			}
 		},
 		{
+			"name": "CSS Combinator",
+			"scope": "keyword.operator.combinator.css",
+			"settings": {
+				"foreground": "#69e3eb"
+			}
+		},
+		{
 			"name": "css color standard name",
 			"scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
 			"settings": {
