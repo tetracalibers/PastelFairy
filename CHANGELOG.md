@@ -1,5 +1,11 @@
 # Change Log
 
+## 0.8.0 (2022-07-23 14:40:14)
+
+### Bug fixed
+
+Fixed token color to 6-digit hex value, as transparency is ignored when taking screenshots with CodeSnap.
+
 ## 0.7.0 (2022-07-23 14:04:40)
 
 ### Color designation changed
