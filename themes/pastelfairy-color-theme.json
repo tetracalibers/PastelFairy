@@ -325,9 +325,9 @@
 		},
 		{
 			"name": "css property-name",
-			"scope": "support.type.vendored.property-name.css",
+			"scope": "support.type.vendored.property-name.css,support.type.property-name.css",
 			"settings": {
-				"foreground": "#a2a7fe",
+				"foreground": "#ee5af697",
 				"fontStyle": "italic "
 			}
 		},
@@ -2016,6 +2016,10 @@
 		"editorHoverWidget.foreground": "#8892b3",
 		"editorHoverWidget.background": "#ffffffe7",
 		"editorHoverWidget.border": "#c2c2ff",
+		"editorBracketHighlight.foreground1": "#FFB90090",
+		"editorBracketHighlight.foreground2": "#00B7C375",
+		"editorBracketHighlight.foreground3": "#00CC6A75",
+		"editorBracketHighlight.unexpectedBracket.foreground": "#EA005E75",
 		"peekView.border": "#c2c2ff",
 		"peekViewEditor.background": "#ffffff",
 		"peekViewEditorGutter.background": "#c1a3a350",
