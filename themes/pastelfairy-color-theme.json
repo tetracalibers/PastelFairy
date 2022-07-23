@@ -327,7 +327,7 @@
 			"name": "css property-name",
 			"scope": "support.type.vendored.property-name.css,support.type.property-name.css",
 			"settings": {
-				"foreground": "#ee5af697",
+				"foreground": "#ffa6a6",
 				"fontStyle": "italic "
 			}
 		},
