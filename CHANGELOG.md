@@ -1,9 +1,8 @@
 # Change Log
 
-All notable changes to the "tetcali-pastel-note" extension will be documented in this file.
+## 0.4.0 (2022-07-23)
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Color designation added
 
-## [Unreleased]
-
-- Initial release
+- **CSS** -> Property Name
+- **All Language** -> parentheses
