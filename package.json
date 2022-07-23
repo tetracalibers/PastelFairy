@@ -3,7 +3,7 @@
 	"displayName": "pastelfairy",
 	"publisher": "tetracalibers",
 	"description": "Ephemeral and fantastic light color theme for VScode",
-	"version": "0.6.0",
+	"version": "0.7.0",
 	"engines": {
 		"vscode": "^1.54.2"
 	},
