@@ -40,4 +40,4 @@ https://github.com/IBM/plex
 
 **tomixy** is a Japanese web developer born in 2002
 
-[Click here for biography](https://tetracalibers.notion.site/tetracalibers/React-polyhexUI-30b94fb9fc054d4da667539ef35f42c6#bc6da2aa652745ecb834ca5d33e0fd90)
+[Click here for biography](https://tetracalibers.notion.site/tomixy-s-Biography-ja-6dac9beded064e9b8458145050ededcb)
