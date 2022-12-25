@@ -20,6 +20,16 @@ This is Color Theme for Visual Studio Code
 
 ![Unobtrusive terminal keeps you focused on editing code](https://github.com/tetracalibers/PastelFairy/raw/publish/img/terminal.png)
 
+## Why low contrast?
+
+It is true that to obtain a display that is easy to see for most people, it is desirable to have sufficient contrast.
+
+However, for those with visual sensitivity due to developmental disabilities, high-contrast screens can rather lead to headaches and scattered concentration. I am one of them.
+
+What we need in a world that respects diversity is choice.
+
+I believe that someone will like it.
+
 ---
 
 ## Fonts used in the image
