@@ -1,24 +1,24 @@
 {
-	"name": "pastelfairy",
-	"displayName": "pastelfairy",
-	"publisher": "tetracalibers",
-	"description": "Ephemeral and fantastic light color theme for VScode",
-	"version": "0.8.0",
-	"engines": {
-		"vscode": "^1.54.2"
-	},
-	"repository": "https://github.com/tetracalibers/PastelFairy.git",
-	"categories": [
-		"Themes"
-	],
-	"icon": "img/pastelfairy_logo.png",
-	"contributes": {
-		"themes": [
-			{
-				"label": "pastelfairy",
-				"uiTheme": "vs",
-				"path": "./themes/pastelfairy-color-theme.json"
-			}
-		]
-	}
+  "name": "pastelfairy",
+  "displayName": "pastelfairy",
+  "publisher": "tetracalibers",
+  "description": "Ephemeral and fantastic light color theme for VScode",
+  "version": "0.8.0",
+  "engines": {
+    "vscode": "^1.54.2"
+  },
+  "repository": "https://github.com/tetracalibers/PastelFairy.git",
+  "categories": [
+    "Themes"
+  ],
+  "icon": "img/pastelfairy_logo.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "pastelfairy",
+        "uiTheme": "vs",
+        "path": "./themes/pastelfairy-color-theme.json"
+      }
+    ]
+  }
 }
