@@ -31,3 +31,14 @@ Fixed token color to 6-digit hex value, as transparency is ignored when taking s
 
 - **CSS** -> Property Name
 - **All Language** -> parentheses
+
+## 1.0.0 (2022-12-25)
+
+### Bug fixed
+
+Fixed a bug that caused invalid tokens to assimilate to the background color and become invisible.
+
+The following is an example of the changes:
+
+- In .svg files, the id value of xlink:href is now the same color as the id value in .html files.
+- In .json files, properties not enclosed in double quotes are now displayed in red to call attention to them.
