@@ -1029,7 +1029,7 @@
       "name": "illegal",
       "scope": "invalid.illegal",
       "settings": {
-        "foreground": "#ffffff",
+        "foreground": "#ff0f6d",
         "fontStyle": ""
       }
     },
@@ -1053,7 +1053,7 @@
       "name": "Broken",
       "scope": "invalid.broken",
       "settings": {
-        "foreground": "#ffffff",
+        "foreground": "#ff0f6d",
         "fontStyle": ""
       }
     },
@@ -1061,7 +1061,7 @@
       "name": "Deprecated",
       "scope": "invalid.deprecated",
       "settings": {
-        "foreground": "#ffffff",
+        "foreground": "#ff0f6d",
         "fontStyle": ""
       }
     },
@@ -1069,7 +1069,7 @@
       "name": "Unimplemented",
       "scope": "invalid.unimplemented",
       "settings": {
-        "foreground": "#ffffff",
+        "foreground": "#ff0f6d",
         "fontStyle": ""
       }
     },
